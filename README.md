@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarinisahay
 - 👀 I’m interested in software development & product management
-- 🌱 I’m currently majoring in Computer Science at Arizona State University (expected graduation 12/2022)
+- 🌱 I’m currently majoring in Computer Science at Arizona State University 
 - 📫 How to reach me: https://www.linkedin.com/in/tarinisahay
 
 <!---
